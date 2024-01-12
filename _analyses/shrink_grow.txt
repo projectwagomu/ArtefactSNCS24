@@ -1,0 +1,47 @@
+--------------------
+--------------------
+APGAS answer time: 6.041794352159471
+--------------------
+--------------------
+APGAS startup time: 4.272713684812005
+--------------------
+--------------------
+GLB initialization time: 0.3249850514875005
+--------------------
+--------------------
+preShrinkTimeGLB
+Number of Events: 568
+Average Places: 2.552816901408450704225352113
+Average Time in Seconds: 1.095923892565140845070422535
+Average Time per Place in Seconds: 0.4292998420531034482758620688
+--------------------
+postShrinkTimeGLB
+Number of Events: 568
+Average Places: 2.552816901408450704225352113
+Average Time in Seconds: 0.00002874594014084507042253521127
+Average Time per Place in Seconds: 0.0000112604786206896551724137931
+--------------------
+shrinkTimeAPGAS
+Number of Events: 568
+Average Places: 2.552816901408450704225352113
+Average Time in Seconds: 7.418839520279929577464788732
+Average Time per Place in Seconds: 2.906138515530344827586206896
+--------------------
+preGrowTimeGLB
+Number of Events: 490
+Average Places: 3.879591836734693877551020408
+Average Time in Seconds: 0.00004756277551020408163265306122
+Average Time per Place in Seconds: 0.00001225973698053655970541820095
+--------------------
+postGrowTimeGLB
+Number of Events: 490
+Average Places: 3.879591836734693877551020408
+Average Time in Seconds: 0.4644524568693877551020408163
+Average Time per Place in Seconds: 0.1197168352793266701735928459
+--------------------
+growTimeAPGAS
+Number of Events: 490
+Average Places: 3.879591836734693877551020408
+Average Time in Seconds: 14.55311014554081632653061224
+Average Time per Place in Seconds: 3.751196197430299842188321935
+--------------------
